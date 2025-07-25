@@ -84,6 +84,7 @@ public class 정리_1 {
 			}
 		}
 		// a,b,c  => 10
+		System.out.println(a);
 	}
 
 }
